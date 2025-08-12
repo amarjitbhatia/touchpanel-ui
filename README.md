@@ -1,4 +1,4 @@
-# Re-architeture of Capacitive touch User interface control panel 
+# Re-architeture of Capacitive Touch Control Panel User Interface
 
 This repository contains design optimization details for integrating a **Capacitive Touch UI Panel** with an embedded **wireless print module**.
 
